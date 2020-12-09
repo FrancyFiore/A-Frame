@@ -1,0 +1,18 @@
+<!DOCTYPE HTML>
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.1.0/aframe.min.js"></script>
+  </head>
+
+  <body>
+    <a-scene background="color: #FAFAFA">
+      <a-assets>
+        <a-asset-item id="drone" src="scene1.gltf"></a-asset-item>
+      </a-assets>
+
+      <a-entity gltf-model="#drone"></a-entity>
+      <a-entity id="drone" position="30 30 30" width="4" height="4"></a-entity>
+
+    </a-scene>
+  </body>
+</html>
