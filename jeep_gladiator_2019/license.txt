@@ -1,0 +1,11 @@
+Model Information:
+* title:	Jeep Gladiator 2019
+* source:	https://sketchfab.com/3d-models/jeep-gladiator-2019-3036e734a0944821aca8d4434abf4936
+* author:	Oscar Martinez (https://sketchfab.com/ostinez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Jeep Gladiator 2019" (https://sketchfab.com/3d-models/jeep-gladiator-2019-3036e734a0944821aca8d4434abf4936) by Oscar Martinez (https://sketchfab.com/ostinez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
