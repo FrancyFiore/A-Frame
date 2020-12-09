@@ -9047,7 +9047,7 @@
   "buffers": [
     {
       "byteLength": 3277504,
-      "uri": "scene.bin"
+      "uri": "scene2.bin"
     }
   ],
   "materials": [
@@ -14621,4 +14621,3 @@
     }
   ]
 }
-
